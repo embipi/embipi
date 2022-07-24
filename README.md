@@ -6,7 +6,7 @@ I am a Data Scientist with great adaptability and ease for learning. I have expe
 
 <div align="center">
   <a href="https://github.com/embipi">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=embipi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=embipi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=embipi&layout=compact&theme=vue-dark"/>
 </div>
   
