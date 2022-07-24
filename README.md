@@ -1,0 +1,9 @@
+Hello World! 
+
+Let me tell you my history...
+
+When I was young I didn't know what I wanted to study, I just knew that I wanted to learn about many different things in life, so I decided to study Psychology. What a great idea, right? Learn about the human brain to understand yourself before learning anything else. When I was in the last year of my studies I decided to focus on the field of research where I found a small niche of knowledge that caught my attention, Psychophysics!, a branch of the human mind capable of giving explanations about the functioning of perception and the representation we have of reality.
+
+It was because of this concern and desire for knowledge that I actually decided to pursue a master's degree in Biophysics to complement my training and embark on a doctorate, however, I was unable to obtain a scholarship to finance my project. After this setback in my path, I decided to land my feet on the ground and try with an intership on the human resources field, my goal was simple: get my first work experience. I would say that this was my biggest mistake and success at the same time since I discovered how much I hated doing some random paperwork ad infinitum and I was encouraged enough to make the leap to a totally different field which I had no previous knowledge, the world of Big Data!.
+
+I started to take online courses and learned by myself how to program in just a few months, shortly after I did a master's degree on Data Science at the same time that I got a intership to work in an Advanced Analytics department. This gave me the opportunity to acquire the experience and knowledge that would allow me to develop as a professional and as a person. Finally, I found a field that requires constant training and the ability to face new challenges on a daily basis, which is precisely the flame that lit the initial fuse of my search for knowledge.
