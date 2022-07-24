@@ -1,9 +1,38 @@
 Hello World! 
 
-Let me tell you my history...
+I am a Data Scientist with great adaptability and ease for learning. I have experienced on data collecting, analyzing and interpreting large datasets and I have developed multiple machine learning and deep learning models. I have extensive analytical skills, strong attention to detail and a significant ability to work in team environments what is more I stand out for my multidisciplinary background.
 
-When I was young I didn't know what I wanted to study, I just knew that I wanted to learn about many different things in life, so I decided to study Psychology. What a great idea, right? Learn about the human brain to understand yourself before learning anything else. When I was in the last year of my studies I decided to focus on the field of research where I found a small niche of knowledge that caught my attention, Psychophysics!, a branch of the human mind capable of giving explanations about the functioning of perception and the representation we have of reality.
+#
 
-It was because of this concern and desire for knowledge that I actually decided to pursue a master's degree in Biophysics to complement my training and embark on a doctorate, however, I was unable to obtain a scholarship to finance my project. After this setback in my path, I decided to land my feet on the ground and try with an intership on the human resources field, my goal was simple: get my first work experience. I would say that this was my biggest mistake and success at the same time since I discovered how much I hated doing some random paperwork ad infinitum and I was encouraged enough to make the leap to a totally different field which I had no previous knowledge, the world of Big Data!.
+<div align="center">
+  <a href="https://github.com/embipi">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=embipi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=embipi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+# 
+  
+<div style="display: inline_block"><br>
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"> - 
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"> - 
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> - 
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> - 
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"> - 
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"> - 
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> - 
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"> - 
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+</div>
 
-I started to take online courses and learned by myself how to program in just a few months, shortly after I did a master's degree on Data Science at the same time that I got a intership to work in an Advanced Analytics department. This gave me the opportunity to acquire the experience and knowledge that would allow me to develop as a professional and as a person. Finally, I found a field that requires constant training and the ability to face new challenges on a daily basis, which is precisely the flame that lit the initial fuse of my search for knowledge.
+#
+  
+<div> 
+  <a href = "mailto:mibravoprieto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+#
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+#
