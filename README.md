@@ -13,14 +13,14 @@ I am a Data Scientist with great adaptability and ease for learning. I have expe
 # 
   
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"> - 
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"> - 
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> - 
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> - 
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"> - 
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"> - 
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> - 
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"> - 
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
 
