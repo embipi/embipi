@@ -1,6 +1,6 @@
 Hello World! 
 
-I am a Data Scientist with great adaptability and ease for learning. I have experienced on data collecting, analyzing and interpreting large datasets and I have developed multiple machine learning and deep learning models. I have extensive analytical skills, strong attention to detail and a significant ability to work in team environments what is more I stand out for my multidisciplinary background.
+I am a Data Scientist with great adaptability and ease of learning. I have experience in collecting data, analyzing and interpreting large datasets, and developing machine learning and deep learning models. I have extensive analytical skills, strong attention to detail, and a great ability to work in team environments. What stands out the most in me is my interdisciplinary training.
 
 #
 
