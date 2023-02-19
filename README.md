@@ -27,7 +27,7 @@ I am a Data Scientist with great adaptability and ease of learning. I have exper
 #
   
 <div> 
-  <a href = "mailto:mibravoprieto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mbravoprieto80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguel-bravo-prieto-8245bb9a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
